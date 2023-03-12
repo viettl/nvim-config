@@ -10,3 +10,6 @@ Run nvim and wait for the plugins to be installed
 
 
 leader key is `,`
+
+nerd font for full icons supported
+https://github.com/ronniedroid/getnf
